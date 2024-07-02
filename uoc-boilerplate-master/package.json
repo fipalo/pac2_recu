@@ -4,14 +4,14 @@
   "private": true,
   "description": "Boilerplate for Advanced HTML/CSS Tools UOC students",
   "scripts": {
-    "parcel:serve": "parcel src/index.html -p 8123 --target web --open",
-    "parcel:build": "parcel build src/index.html --target web --no-source-maps --no-cache",
+    "parcel:serve": "parcel index.html -p 8123 --target web --open",
+    "parcel:build": "parcel build index.html --target web --no-source-maps --no-cache",
     "clean": "rimraf dist .cache .cache-loader .parcel-cache",
     "dev": "npm-run-all clean parcel:serve",
     "build": "npm-run-all clean parcel:build",
     "test": "echo 'Everything is working as expected ✅\nStart working on your project by running \\033[1mnpm run dev\\033[0m'"
   },
-  "web": "dist/index.html",
+  "web": "index.html", 
   "targets": {
     "web": {
       "context": "browser",
