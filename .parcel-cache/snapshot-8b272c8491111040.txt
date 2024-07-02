@@ -1,4 +1,4 @@
-23497
+23495
 71C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\js-yaml\lib\schema133644100409078729 1
 74C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\domutils\package.json133644100407907463 0
 73C:\UOC\pac2_recu\uoc-boilerplate-master\src\assets\styles\_variables.scss133643106914973605 0
@@ -88,11 +88,11 @@
 90C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\postcss-safe-parser\lib\safe-parse.js133644100404374772 0
 129C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Selector.js133644100412970098 0
 100C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\stylelint\lib\utils\functionArgumentsSearch.mjs133644100415727440 0
-21C:\UOC\pac2_recu\dist133644107144631729 1
+21C:\UOC\pac2_recu\dist133644115904225985 1
 96C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\caniuse-lite\data\features\border-radius.js133644100411675005 0
 67C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\is-binary-path133644100405765618 1
-65C:\UOC\pac2_recu\uoc-boilerplate-master\src\assets\fonts\.gitkeep133643106914418143 0
 30C:\UOC\pac2_recu\contacte.html133644098688441346 0
+65C:\UOC\pac2_recu\uoc-boilerplate-master\src\assets\fonts\.gitkeep133643106914418143 0
 79C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\data-view-buffer\README.md133644100407577470 0
 105C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\@fortawesome\fontawesome-free\svgs\brands\cc-jcb.svg133644100416702553 0
 85C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\es-abstract\2019\Canonicalize.js133644100414231622 0
@@ -111,9 +111,6 @@
 75C:\UOC\pac2_recu\node_modules\caniuse-lite\data\features\contenteditable.js133644099524816773 0
 83C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\@parcel\workers\lib\backend.js133644100404475298 0
 63C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\tar-stream133644100407186157 1
-64C:\UOC\pac2_recu\node_modules\@parcel\core\lib\CommittedAsset.js133644099523775403 0
-57C:\UOC\pac2_recu\uoc-boilerplate-master\package-lock.json133644100433869784 0
-109C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gio.h133117882010000000 0
 46C:\UOC\pac2_recu\uoc-boilerplate-master\.nvmrc133643106913231791 0
 55C:\UOC\pac2_recu\node_modules\@parcel\optimizer-css\src133644099520629129 1
 81C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\es-define-property\.eslintrc133644100403358783 0
@@ -121,7 +118,7 @@
 87C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\get-intrinsic\test\GetIntrinsic.js133644100405545621 0
 95C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\ajv\dist\vocabularies\applicator\if.js.map133644100413941623 0
 79C:\UOC\pac2_recu\node_modules\@parcel\reporter-dev-server\lib\ServerReporter.js133644099522575159 0
-34C:\UOC\pac2_recu\package-lock.json133644099530674356 0
+34C:\UOC\pac2_recu\package-lock.json133644100433869784 0
 61C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\dir-glob133644100405205292 1
 102C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\caniuse-lite\data\features\css-scroll-timeline.js133644100414391675 0
 106C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\@fortawesome\fontawesome-free\svgs\solid\cannabis.svg133644100416532554 0
@@ -164,6 +161,9 @@
 91C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\utility-types\dist\mapped-types.js.map133644100408007466 0
 84C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\caniuse-lite\data\regions\LK.js133644100416407483 0
 86C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\ajv\dist\refs\json-schema-2019-09133644100415322391 1
+79C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\es-abstract\2020\ToInt8.js133644100421810090 0
+74C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\svgo\plugins\_path.js133644100410389263 0
+86C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\es-abstract\2022\IsConstructor.js133644100418053587 0
 59C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\braces133644100407817472 1
 71C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\has-proto\index.js133644100404765289 0
 101C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\string-width-cjs\node_modules\strip-ansi\license133644100403524740 0
@@ -181,7 +181,7 @@
 83C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\write-file-atomic\package.json133644100404374772 0
 62C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\callsites133644100405785616 1
 98C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\stylelint\lib\rules\color-hex-alpha\index.mjs133644100416027450 0
-29C:\UOC\pac2_recu\package.json133644099530309286 0
+29C:\UOC\pac2_recu\package.json133644112089181445 0
 115C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\@fortawesome\fontawesome-free\svgs\solid\file-prescription.svg133644100418893765 0
 62C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\immutable133644100408347497 1
 76C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\es-abstract\2024\Set.js133644100420635019 0
@@ -201,7 +201,7 @@
 84C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\@parcel\core\src\Environment.js133644100411625004 0
 62C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\js-tokens133644100405785616 1
 91C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\es-abstract\2016\IsConcatSpreadable.js133644100417963597 0
-39C:\UOC\pac2_recu\uoc-boilerplate-master133644100433869784 1
+39C:\UOC\pac2_recu\uoc-boilerplate-master133644115901192190 1
 99C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\caniuse-lite\data\features\mutationobserver.js133644100416732555 0
 78C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\which-typed-array\.github133644100408207472 1
 89C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\table\dist\src\makeStreamConfig.d.ts133644100412650098 0
@@ -269,9 +269,6 @@
 69C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\uri-js\yarn.lock133644100409208721 0
 87C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\stylelint\node_modules\emoji-regex133644100406646153 1
 52C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules133644100434480652 1
-52C:\UOC\pac2_recu\uoc-boilerplate-master\package.json133644112089181445 0
-110C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\stylelint\lib\rules\selector-no-qualifying-type\index.cjs133644100414371676 0
-104C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\stylelint\lib\rules\no-unknown-animations\index.mjs133644100416472558 0
 112C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\stylelint-scss\src\rules\at-else-empty-line-before\index.js133644100409739228 0
 49C:\UOC\pac2_recu\uoc-boilerplate-master\README.md133643106913596536 0
 109C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\sharp\vendor\8.13.3\win32-x64\include\libheif\heif_cxx.h133117882010000000 0
@@ -906,8 +903,8 @@
 108C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\@fortawesome\fontawesome-free\svgs\solid\sack-xmark.svg133644100422230093 0
 134C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\sharp\vendor\8.13.3\win32-x64\include\gdk-pixbuf-2.0\gdk-pixbuf\gdk-pixbuf-core.h133117882010000000 0
 88C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\data-view-byte-length\tsconfig.json133644100406846168 0
-83C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\which-boxed-primitive\index.js133644100406315666 0
 63C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\ansi-regex133644100405755626 1
+83C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\which-boxed-primitive\index.js133644100406315666 0
 58C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\sharp133644100430884494 1
 79C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\svgo\plugins\mergePaths.js133644100411189905 0
 64C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\ansi-styles133644100405795615 1
@@ -1925,7 +1922,7 @@
 111C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\stylelint-scss\src\rules\at-else-closing-brace-space-after133644100409619227 1
 48C:\UOC\pac2_recu\node_modules\callsites\index.js133644099520549086 0
 109C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\stylelint-order\rules\order\calcAtRulePatternPriority.js133644100404965298 0
-42C:\UOC\pac2_recu\dist\contacte.c50bf487.js133644102526140774 0
+42C:\UOC\pac2_recu\dist\contacte.c50bf487.js133644115904015949 0
 89C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\es-abstract\5\IsGenericDescriptor.js133644100418263593 0
 112C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\@fortawesome\fontawesome-free\svgs\solid\ruler-combined.svg133644100422190091 0
 83C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\table\dist\src\wrapWord.js.map133644100411665010 0
@@ -2725,8 +2722,8 @@
 73C:\UOC\pac2_recu\node_modules\csso\node_modules\css-tree\cjs\syntax\scope133644099524856777 1
 85C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\css-tree\cjs\syntax\node\CDO.cjs133644100408377497 0
 81C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\validate-npm-package-license133644100405245292 1
-79C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\postcss-logical\LICENSE.md133644100405565616 0
 111C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\uri.h133117882010000000 0
+79C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\postcss-logical\LICENSE.md133644100405565616 0
 101C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\stylelint\lib\rules\function-name-case\index.cjs133644100413451624 0
 98C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\stylelint\lib\rules\no-descending-specificity133644100416432552 1
 89C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\svgo\plugins\removeElementsByAttr.js133644100411625004 0
@@ -2864,6 +2861,9 @@
 81C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\resolve\test\node_path\x\ccc133644100410639902 1
 106C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\ajv\lib\refs\json-schema-2020-12\meta\validation.json133644100413571629 0
 112C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\stylelint-scss\src\rules\selector-nest-combinators\index.js133644100413220102 0
+79C:\UOC\pac2_recu\node_modules\@parcel\runtime-js\lib\helpers\node\css-loader.js133644099521985152 0
+81C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\es-abstract\2021\ToString.js133644100422110095 0
+81C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\postcss-logical\package.json133644100404404765 0
 73C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\wrap-ansi\index.d.ts133644100405885614 0
 92C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\arraybuffer.prototype.slice\polyfill.js133644100407807468 0
 100C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\abortcontroller-polyfill\src\abortcontroller.js133644100406796147 0
@@ -3320,8 +3320,8 @@
 90C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\uri-js\dist\esnext\schemes\wss.js.map133644100410259227 0
 102C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\sharp\vendor\8.13.3\win32-x64\include\librsvg-2.0133644100425615675 1
 68C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\table\README.md133644100411695010 0
-113C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\@fortawesome\fontawesome-free\svgs\regular\face-surprise.svg133644100418663774 0
 77C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\fast-deep-equal\index.js133644100404955297 0
+113C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\@fortawesome\fontawesome-free\svgs\regular\face-surprise.svg133644100418663774 0
 78C:\UOC\pac2_recu\node_modules\css-select\lib\esm\pseudo-selectors\filters.d.ts133644099524235404 0
 109C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\@csstools\postcss-stepped-value-functions\dist\index.cjs133644100403584739 0
 105C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\stylelint-scss\src\rules\at-import-partial-extension133644100410849895 1
@@ -3625,6 +3625,9 @@
 75C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\to-regex-range\LICENSE133644100404885289 0
 75C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\postcss\lib\comment.js133644100405075296 0
 80C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\to-regex-range\package.json133644100403464697 0
+70C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\resolve\.eslintrc133644100403964735 0
+92C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\@csstools\color-helpers\dist\index.d.ts133644100407226151 0
+80C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\svgo\plugins\_transforms.js133644100410439901 0
 115C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\@fortawesome\fontawesome-free\svgs\brands\square-pinterest.svg133644100422805211 0
 87C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\es-abstract\2018\NumberToString.js133644100419654789 0
 89C:\UOC\pac2_recu\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.1133644099522960256 0
@@ -4199,12 +4202,6 @@
 76C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\readable-stream\LICENSE133644100403308783 0
 78C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\svgo\plugins\sortAttrs.js133644100412630097 0
 81C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\svgo\plugins\_collections.js133644100410329264 0
-79C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\es-abstract\2020\ToInt8.js133644100421810090 0
-74C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\svgo\plugins\_path.js133644100410389263 0
-86C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\es-abstract\2022\IsConstructor.js133644100418053587 0
-70C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\resolve\.eslintrc133644100403964735 0
-92C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\@csstools\color-helpers\dist\index.d.ts133644100407226151 0
-80C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\svgo\plugins\_transforms.js133644100410439901 0
 72C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\svgo\lib\builtin.js133644100409278753 0
 92C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\es-abstract\2022\IsGenericDescriptor.js133644100418253599 0
 80C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\ajv\lib\standalone\index.ts133644100415457428 0
@@ -5930,6 +5927,8 @@
 78C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\semver\functions\parse.js133644100409999235 0
 76C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\js-yaml\dist\js-yaml.js133644100408858719 0
 108C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\stylelint\lib\rules\selector-no-vendor-prefix\index.mjs133644100416682560 0
+110C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\stylelint\lib\rules\selector-no-qualifying-type\index.cjs133644100414371676 0
+104C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\stylelint\lib\rules\no-unknown-animations\index.mjs133644100416472558 0
 99C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\ajv\dist\vocabularies\applicator\properties.js133644100411875005 0
 51C:\UOC\pac2_recu\node_modules\svgo\plugins\_path.js133644099523330270 0
 105C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\stylelint\lib\rules\selector-max-universal\index.cjs133644100414351665 0
@@ -7745,6 +7744,7 @@
 115C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\ginitable.h133117882010000000 0
 79C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\fraction.js\bigfraction.js133644100405165295 0
 73C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\fs-constants\LICENSE133644100405325328 0
+109C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gio.h133117882010000000 0
 66C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\@parcel\utils133644100411885003 1
 69C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\pidtree\index.js133644100405615619 0
 114C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gioenums.h133117882010000000 0
@@ -9041,9 +9041,6 @@
 100C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\csso\node_modules\css-tree\cjs\walker\index.cjs133644100411475009 0
 99C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\@swc\helpers\src\_class_private_method_set.mjs133644100415637439 0
 103C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\postcss-media-query-parser\dist\nodes\Container.js133644100406656155 0
-79C:\UOC\pac2_recu\node_modules\@parcel\runtime-js\lib\helpers\node\css-loader.js133644099521985152 0
-81C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\es-abstract\2021\ToString.js133644100422110095 0
-81C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\postcss-logical\package.json133644100404404765 0
 84C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\postcss-logical\dist\index.d.ts133644100406966145 0
 86C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\postcss-lab-function\package.json133644100404404765 0
 83C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\postcss-lab-function\README.md133644100406035616 0
@@ -16749,7 +16746,7 @@
 99C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\ajv\dist\refs\json-schema-2020-12\index.js.map133644100414001620 0
 98C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\ajv\dist\refs\json-schema-2020-12\schema.json133644100413461624 0
 101C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\ajv\dist\refs\json-schema-2020-12\meta\core.json133644100413160097 0
-48C:\UOC\pac2_recu\dist\activitats.a2bbf572.js.map133644102525495708 0
+48C:\UOC\pac2_recu\dist\activitats.a2bbf572.js.map133644115904215983 0
 114C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\ajv\dist\refs\json-schema-2020-12\meta\format-annotation.json133644100413250095 0
 103C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\@fortawesome\fontawesome-free\svgs\solid\shirt.svg133644100422400129 0
 106C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\ajv\dist\refs\json-schema-2020-12\meta\meta-data.json133644100413400126 0
@@ -16919,7 +16916,7 @@
 84C:\UOC\pac2_recu\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\src133644099524285402 1
 101C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\@swc\helpers\_\_non_iterable_spread\package.json133644100415032352 0
 97C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\@swc\helpers\_\_new_arrow_check\package.json133644100414992345 0
-44C:\UOC\pac2_recu\dist\elclub.adc632fb.js.map133644102525455713 0
+44C:\UOC\pac2_recu\dist\elclub.adc632fb.js.map133644115904055958 0
 111C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\@swc\helpers\_\_iterable_to_array_limit_loose\package.json133644100414952349 0
 105C:\UOC\pac2_recu\uoc-boilerplate-master\node_modules\@swc\helpers\_\_iterable_to_array_limit\package.json133644100414962352 0
 61C:\UOC\pac2_recu\node_modules\caniuse-lite\data\regions\AD.js133644099521534206 0
@@ -22723,7 +22720,7 @@
 75C:\UOC\pac2_recu\node_modules\@parcel\runtime-js\src\helpers\cacheLoader.js133644099521674253 0
 78C:\UOC\pac2_recu\node_modules\@parcel\runtime-js\src\helpers\get-worker-url.js133644099522425149 0
 79C:\UOC\pac2_recu\node_modules\@parcel\runtime-js\src\helpers\node\css-loader.js133644099522205159 0
-44C:\UOC\pac2_recu\dist\activitats.a2bbf572.js133644102525455713 0
+44C:\UOC\pac2_recu\dist\activitats.a2bbf572.js133644115904205983 0
 59C:\UOC\pac2_recu\node_modules\@parcel\cache\lib\IDBCache.js133644099521644260 0
 80C:\UOC\pac2_recu\node_modules\@parcel\runtime-js\src\helpers\node\html-loader.js133644099522635210 0
 80C:\UOC\pac2_recu\node_modules\@parcel\runtime-js\src\helpers\node\wasm-loader.js133644099523420262 0
@@ -23337,6 +23334,7 @@
 63C:\UOC\pac2_recu\node_modules\@parcel\core\lib\applyRuntimes.js133644099522575159 0
 60C:\UOC\pac2_recu\node_modules\@parcel\core\lib\assetUtils.js133644099523190257 0
 61C:\UOC\pac2_recu\node_modules\@parcel\core\lib\BundleGraph.js133644099523450261 0
+64C:\UOC\pac2_recu\node_modules\@parcel\core\lib\CommittedAsset.js133644099523775403 0
 69C:\UOC\pac2_recu\node_modules\@parcel\core\lib\dumpGraphToGraphViz.js133644099524085404 0
 61C:\UOC\pac2_recu\node_modules\@parcel\core\lib\Environment.js133644099524185395 0
 64C:\UOC\pac2_recu\node_modules\@parcel\core\lib\InternalConfig.js133644099524435388 0
@@ -23466,8 +23464,8 @@
 36C:\UOC\pac2_recu\dist\2.59a42aba.jpg133644107133408005 0
 36C:\UOC\pac2_recu\dist\4.88760527.jpg133644102526110779 0
 37C:\UOC\pac2_recu\dist\activitats.html133644107144566864 0
-46C:\UOC\pac2_recu\dist\contacte.c50bf487.js.map133644102526150784 0
-40C:\UOC\pac2_recu\dist\elclub.adc632fb.js133644102525375720 0
+46C:\UOC\pac2_recu\dist\contacte.c50bf487.js.map133644115904055958 0
+40C:\UOC\pac2_recu\dist\elclub.adc632fb.js133644115904015949 0
 33C:\UOC\pac2_recu\dist\elclub.html133644107144566864 0
 63C:\UOC\pac2_recu\dist\glyphicons-halflings-regular.0d7126ab.eot133644102525185666 0
 63C:\UOC\pac2_recu\dist\glyphicons-halflings-regular.1a33c1eb.ttf133644107133408005 0
@@ -23490,8 +23488,8 @@
 39C:\UOC\pac2_recu\dist\index.f2d2081a.js133644107144566864 0
 43C:\UOC\pac2_recu\dist\index.f2d2081a.js.map133644107144621846 0
 39C:\UOC\pac2_recu\dist\logo.dae84dc8.png133644102525235667 0
-43C:\UOC\pac2_recu\dist\pac2_recu.3464ddca.js133644102525375720 0
-47C:\UOC\pac2_recu\dist\pac2_recu.3464ddca.js.map133644102525465710 0
+43C:\UOC\pac2_recu\dist\pac2_recu.3464ddca.js133644115903995953 0
+47C:\UOC\pac2_recu\dist\pac2_recu.3464ddca.js.map133644115904055958 0
 45C:\UOC\pac2_recu\dist\portfolio3.66ded575.jpg133644102525550768 0
 45C:\UOC\pac2_recu\dist\portfolio3.98aac18f.jpg133644107143494131 0
 45C:\UOC\pac2_recu\dist\portfolio5.f0ae1034.jpg133644102526100777 0

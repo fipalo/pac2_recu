@@ -585,6 +585,6 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 
 },{}],"fK4MB":[function(require,module,exports) {
 
-},{}]},["chDvZ","fK4MB"], "fK4MB", "parcelRequire94c2")
+},{}]},["chDvZ","fK4MB"], "fK4MB", "parcelRequireb0cb")
 
 //# sourceMappingURL=activitats.a2bbf572.js.map
